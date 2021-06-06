@@ -1,5 +1,5 @@
 # EDAs
 ## salaries 
-data analysis 
+salary data analysis with pandas
 ## signals
-feature generation + catboost/svm
+feature generation with pandas/scipy/matplotlib + recognition wtih catboost/svm classification
