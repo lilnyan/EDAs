@@ -1,4 +1,3 @@
 # EDAs
-1. 
-2. 
-3. EDA, feature generation + catboost/svm
+1. salaries data analysis 
+2. feature generation + catboost/svm
